@@ -1,9 +1,9 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital & Serious Games Personal Repository: xxx
+### First and Last Name: ΘΕΟΦΙΛΟΣ ΣΑΒΒΙΔΗΣ 
+### University Registration Number: dpsd19115
+### GitHub Personal Profile: https://github.com/Tsavvis
+### Digital & Serious Games Personal Repository: https://github.com/Tsavvis/Role-Playing-Game
 
 # Introduction
 <p>
