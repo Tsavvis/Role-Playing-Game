@@ -24,27 +24,27 @@ https://www.youtube.com/c/MortMort
 <p> 
 Ξεκινάμε λοιπόν, με την δημιουργία ενός νέου project στο Unity και ακολουθώντας τις οδηγίες του tutorial (:https://learn.unity.com/tutorial/main-character-and-first-script?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c) κατάφερα να φτίαξω τον κώδικα για να μετακινώ τον χαρακτήρα μου<br/>
 Κατευθείαν άνοιξα το Aseprite για να δημιουργήσω τους δικους μου χαρακτήρες. Αρχικά ήθελα να φτιάξω τον καβαλλάρη όπως τον γνωρίζουμε από τον μύθο, πάνω δηλαδη στο άλογό του.<br/>
-<img src="Screenshot_2.jpg">
+<img src="Screenshot_2.jpg" width="40%" height="40%"> <br/>
 Δυστυχώς συνειδητοποίησα ότι αργότερα, στη δημιουργία των animations θα χρειαζόταν πολύ παραπάνω προσοχή και χρόνος, οπότε αποφάσισα ότι για αυτή την εκδοχή, ο καβαλλάρης μας θα αφήσει το άλογό του και ίσως βρεθεί κάποια ιστορία που να συνοδεύει αυτή την εξέλιξη.<br/>
 Στη συνέχεια δημιούργησα τα δικά μου tiles συνεχίζοντας το tutorial και παρακολουθώντας βοηθητικά βίντεο. Μερικά από τα πρώτα αποτελέσματα είναι τα εξής:<br/>
 <p>
-<img src="Screenshot_3.jpg">
+<img src="Screenshot_3.jpg" width="40%" height="40%">
 <p/>
 Και με την εισαγωγή τους στο Unity:<br>
 <p>
-<img src="Screenshot_4.jpg">
+<img src="Screenshot_4.jpg" width="50%" height="50%">
 <p/>
 Ο τελικός χαρακτήρας είναι ο εξής:<br/>
 <img src="Screenshot_14.jpg"><br/>
 ...καθώς και όλα τα τελικά assets που χρησιμοποιούνται έως τώρα:<br/>
-<img src="Screenshot_8.jpg"><img src="Screenshot_7.jpg"><br/>
+<img src="Screenshot_8.jpg" width="40%" height="40%"><img src="Screenshot_7.jpg" width="40%" height="40%"><br/>
 <br/>
 Στο πεταξύ επιχείρησα να προσθέσω κάτι παραπάνω στην κάμερα του παιχνιδιού ακολουθώντας το tutorial για το cinemachine (https://learn.unity.com/tutorial/camera-cinemachine?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c). Ο λόγος που το πρόσθεσα από τόσο νωρίς είναι για να μπορέσω να δω ποιες περιοχές θα μπορούν οι παίχτες όντως να δούνε, γλιτώνοντας χρόνο στη διακόσμηση ασχετων περιοχών.
 <br/>
 Ο τελικός χάρτης για το πρώτο σταδιο μέχρι στιγμής είναι ο εξής:<br>
-<img src="Screenshot_15.jpg"><br/>
+<img src="Screenshot_15.jpg" width="40%" height="40%" ><br/>
 Ενδέχεται να γίνουν αλλαγές μέχρι το δεύτερο και το τρίτο παραδοτέο ενώ ταυτόχρονα ετοιμάζω τα assets για το δεύτερο επίπεδο και το τελικό Boss.<br/>
-<img src="Screenshot_16.jpg"><img src="Screenshot_17.jpg"><br/>
+<img src="Screenshot_16.jpg" width="40%" height="40%"><img src="Screenshot_17.jpg" width="43%" height="44%"><br/>
 <p/>
 
 # 2nd Deliverable
